@@ -2,6 +2,13 @@
 
 한남대학교 컴퓨터공학과 20212388 김한별
 
+
+## github 주소
+https://github.com/1ostar
+
+(↓프로젝트 주소)
+https://github.com/1ostar/1ostar.github.io
+
 ## 홈페이지 설명
 
 홈페이지 제작에 있어, 교수님께서 올려주신 Start Bootstrap 테마를 활용하였습니다. 이 테마를 기반으로 기본적인 구조를 구축한 후, 코드와 사진을 수정하여 저희 프로젝트의 특성과 요구에 맞게 맞춤화하였습니다.
