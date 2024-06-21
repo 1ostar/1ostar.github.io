@@ -16,6 +16,8 @@ https://github.com/1ostar/1ostar.github.io **(프로젝트 주소)**
 
 ## 나의 스킬
 
+https://github.com/1ostar/1ostar.github.io/blob/main/img/portfolio/positive.png
+
 **첫 번째 사진은 제가 가진 주요 기술 중 하나**를 나타냅니다. 이 사진은 제가 어떤 기술에 능숙한지를 보여주며, 해당 기술에 대한 경험과 성취를 설명합니다.
 
 **두 번째 사진 역시 저의 또 다른 주요 기술**을 나타냅니다. 이를 통해 제가 보유한 다양한 기술 스펙트럼을 강조하며, 여러 분야에서의 전문성을 어필합니다.
