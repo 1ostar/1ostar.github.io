@@ -1,27 +1,61 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# 웹스크프로그래밍 학기말 과제 / 개인 홈페이지 만들기
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+한남대학교 컴퓨터공학과 20212388 김한별
 
-## Getting Started
+## 홈페이지 설명
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+홈페이지 제작에 있어, 교수님께서 올려주신 Start Bootstrap 테마를 활용하였습니다. 이 테마를 기반으로 기본적인 구조를 구축한 후, 코드와 사진을 수정하여 저희 프로젝트의 특성과 요구에 맞게 맞춤화하였습니다.
 
-## Bugs and Issues
+## 나의 스킬
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+저는 "외향적인 성향"을 가지고 있어 사람들과 함께 지내는 시간들을 매우 즐깁니다. 이로 인해 자연스럽게 다양한 사람들과의 교류에서 "긍정적인 에너지를 전달하고 받는 것"을 좋아합니다.
 
-## Creator
+또한, 항상 "긍정적인 마인드를 유지하려고 노력"하며, 이는 주변 사람들에게도 좋은 영향을 미치고 있습니다. 저는 "타인의 말을 잘 경청"하며, 이를 통해 "그들의 의견을 이해하고 존중"하려 합니다.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+이러한 경청 능력은 제가 분위기를 자연스럽게 띄우고, 사람들 사이의 유대감을 강화하는 데 큰 도움이 됩니다. 결과적으로, 저는 다양한 사람들과의 상호작용 속에서 긍정적인 분위기를 형성하는 데 기여하고 있습니다.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+저는 다른 사람들에 비해 "적응력"이 뛰어나기 때문에 어떤 상황에서도 빠르게 상황을 파악하고 침착하게 대처할 수 있는 능력을 가지고 있습니다.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+이러한 능력은 "새로운 환경이나 예상치 못한 변화가 발생했을 때 특히 유용"합니다.
 
-## Copyright and License
+다양한 상황에서 요구되는 "조건들을 빠르게 이해"하고, 이에 맞는 "최적의 해결책을 찾는 데 탁월한 능력을 발휘"합니다.
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+또한, 이러한 적응력은 "스트레스를 효과적으로 관리"하고, 팀 내에서 "신뢰받는 구성원"으로서 역할을 수행하는 데 큰 도움이 됩니다.
+
+결과적으로, 저는 복잡하고 변화무쌍한 환경에서도 안정적으로 업무를 수행하며, "긍정적인 결과를 도출하는 데 기여"할 수 있습니다.
+
+
+
+## 희망 직무
+
+대학교 4년을 다니면서 아직 나 자신에게 완벽히 맞는 분야를 찾지는 못했지만, "최근 들어 소프트웨어에 대해 깊이 고민하고 있습니다."
+
+다양한 수업을 듣는 과정에서 소프트웨어 분야에 대한 관심이 점점 커지고 있으며, 이를 통해 "나의 적성과 흥미를 발견하고자 노력하고 있습니다."
+
+프로그래밍 언어와 알고리즘에 대한 기초 지식을 습득하면서, "소프트웨어 개발이 얼마나 창의적이고 논리적인 작업인지를 깨닫게 되었습니다."
+
+또한, 여러 프로젝트에 참여하며 실질적인 경험을 쌓고, "팀워크와 문제 해결 능력을 향상시키려고 노력"하고 있습니다.
+
+이러한 과정을 통해 소프트웨어 분야가 "나의 적성에 부합하는지 확인하고, 앞으로의 진로를 구체화해 나가고자 합니다."
+
+
+## 프로젝트 5개 설명
+
+첫 번째 프로젝트는 작년에 진행한 "쭈꾸미 게임" 제작입니다. 이 프로젝트는 후배들과 함께 C 언어를 이용하여 개발한 콘솔 게임입니다.
+
+처음으로 게임을 제작하는 것이었기 때문에 시작할 때는 많은 걱정이 있었지만, "팀원들과 함께 협력하여 프로젝트를 성공적으로 마무리"할 수 있었습니다.
+
+프로젝트 초기에는 게임의 기본 개념과 구조를 설계하는 데 어려움이 있었지만, "팀원들과의 지속적인 논의를 통해 문제를 해결"해 나갔습니다.
+
+각자가 맡은 역할을 충실히 수행하며, 끈기 있게 도전한 결과, 최종적으로 만족스러운 게임을 완성할 수 있었습니다.
+
+이 경험을 통해 팀워크의 중요성과 문제 해결 능력을 크게 향상시킬 수 있었고, 소프트웨어 개발에 대한 자신감을 얻을 수 있었습니다.
+
+두 번째 프로젝트는 최근에 진행한 "부산헹 게임"입니다. 이 프로젝트는 혼자서 진행한 것으로, 앞서 만든 "쭈꾸미 게임"과 마찬가지로 C 언어를 이용하여 개발한 콘솔 게임입니다.
+
+첫 번째 프로젝트에 비해 훨씬 더 어려운 점이 많았고," 많은 도전과 난관에 직면"했습니다. 그러나 이러한 "어려움을 극복하기 위해 열심히 공부하고 새로운 기술을 습득하며, 게임을 완성하려고 부단히 노력"했습니다.
+
+다양한 문제를 해결해 나가면서, "C 언어에 대한 이해도를 더욱 높일 수 있었고, 프로그래밍 실력을 한층 더 발전"시킬 수 있었습니다.
+
+비록 과정이 힘들었지만, 꾸준한 노력과 집중을 통해 프로젝트를 성공적으로 마무리할 수 있었습니다. "이 경험을 통해 자기 주도적인 학습 능력과 문제 해결 능력을 크게 향상시킬 수 있었으며, 앞으로의 개발 프로젝트에 대한 자신감도 키울 수 있었습니다."
+
