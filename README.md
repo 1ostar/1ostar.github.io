@@ -8,6 +8,8 @@ https://github.com/1ostar **(계정 주소)**
 
 https://github.com/1ostar/1ostar.github.io **(프로젝트 주소)**
 
+http://127.0.0.1:5500/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/index.html **(홈페이지주소)**
+
 ## 홈페이지 설명
 
 홈페이지 제작에 있어, 교수님께서 올려주신 **Start Bootstrap 테마를 활용**하였습니다. 이 테마를 기반으로 기본적인 구조를 구축한 후, 코드와 사진을 수정하여 저희 프로젝트의 특성과 요구에 맞게 맞춤화하였습니다.
