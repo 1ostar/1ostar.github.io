@@ -4,10 +4,9 @@
 
 
 ## github 주소
-https://github.com/1ostar
+https://github.com/1ostar (계정 주소)
 
-(↓프로젝트 주소)
-https://github.com/1ostar/1ostar.github.io
+https://github.com/1ostar/1ostar.github.io (프로젝트 주소)
 
 ## 홈페이지 설명
 
