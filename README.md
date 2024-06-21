@@ -8,7 +8,6 @@ https://github.com/1ostar **(계정 주소)**
 
 https://github.com/1ostar/1ostar.github.io **(프로젝트 주소)**
 
-http://127.0.0.1:5500/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/index.html **(홈페이지주소)**
 
 ## 홈페이지 설명
 
